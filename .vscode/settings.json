@@ -1,2 +1,21 @@
 {
+  "node_require.exclude": [
+    "typings",
+    "dist",
+    "bin",
+    "build"
+  ],
+
+  "node_require.include": [
+    "js",
+    "mjs",
+    "ts",
+    "jsx",
+    "tsx",
+    "css",
+    "json",
+    "node_modules",
+    "tmp"
+  ],
+
 }
